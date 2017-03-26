@@ -7,6 +7,18 @@ define([],
 			//The web map id
 			webmaps: [
 			{
+				id: "0ba86f62b67c4e0e9138d06e27e90df2",
+				title: "Totale meerjarenplanning",
+				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
+				showSingleTimeInstance: false
+			},				
+			{
+				id: "4112c1646c594718a4d579b762a101aa",
+				title: "Civiele Kunstwerken",
+				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
+				showSingleTimeInstance: false
+			},
+			{
 				id: "3fe26e5d39d449a2acd9c45a2f2f9190",
 				title: "Groen",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
@@ -33,12 +45,6 @@ define([],
 			{
 				id: "946f92656fa84353a0c01e4024a48b22",
 				title: "Verkeer",
-				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
-				showSingleTimeInstance: false
-			},
-			{
-				id: "0ba86f62b67c4e0e9138d06e27e90df2",
-				title: "Totale meerjarenplanning",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
 			}
