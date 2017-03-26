@@ -8,7 +8,7 @@ define([],
 			webmaps: [
 			{
 				id: "3fe26e5d39d449a2acd9c45a2f2f9190",
-				title: "Groen projecten",
+				title: "Groen",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
 			},
